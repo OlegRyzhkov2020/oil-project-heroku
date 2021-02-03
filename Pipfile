@@ -18,6 +18,6 @@ splinter = "*"
 Flask = "*"
 Flask-PyMongo = "*"
 wtforms = "*"
-
+statsmodels = "*"
 [requires]
 python_version = "3.8"
