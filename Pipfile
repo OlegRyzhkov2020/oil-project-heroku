@@ -6,7 +6,6 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-gunicorn = "==20.0.4"
 absl-py = "==0.11.0"
 appdirs = "==1.4.4"
 appnope = "==0.1.0"
@@ -48,6 +47,7 @@ google-auth-oauthlib = "==0.4.2"
 google-pasta = "==0.2.0"
 graphviz = "==0.14.2"
 grpcio = "==1.33.2"
+gunicorn = "==20.0.4"
 h5py = "==2.10.0"
 htmlmin = "==0.1.12"
 httplib2 = "==0.18.1"
