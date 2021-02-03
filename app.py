@@ -20,7 +20,7 @@ app = Flask(__name__)
 # Database Setup
 #######################################################
 # Use PyMongo to establish Mongo connection
-mongo = PyMongo(app, uri="mongodb://localhost:27017/oil_db")
+mongo = None#PyMongo(app, uri="mongodb://localhost:27017/oil_db")
 
 #######################################################
 # Input Data Class Object
