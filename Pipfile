@@ -19,5 +19,9 @@ Flask = "*"
 Flask-PyMongo = "*"
 wtforms = "*"
 statsmodels = "*"
+quandl = "*"
+yahoo_fin = "*"
+
+
 [requires]
 python_version = "3.8"

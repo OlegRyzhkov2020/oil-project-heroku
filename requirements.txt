@@ -11,3 +11,5 @@ pandas
 splinter
 wtforms
 statsmodels
+quandl
+yahoo_fin
