@@ -21,6 +21,8 @@ wtforms = "*"
 statsmodels = "*"
 quandl = "*"
 yahoo_fin = "*"
+requests_html = "*"
+requests = "*"
 
 
 [requires]
