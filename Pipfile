@@ -17,6 +17,7 @@ pandas = "*"
 splinter = "*"
 Flask = "*"
 Flask-PyMongo = "*"
+wtforms = "*"
 
 [requires]
 python_version = "3.8"
