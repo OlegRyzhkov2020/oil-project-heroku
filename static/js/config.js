@@ -1,0 +1,2 @@
+QUANDL_API_KEY = "xq44Ss4a-fZGqgecyG1o"
+MAP_API_KEY = "sk.eyJ1Ijoib3J5emhrb3YiLCJhIjoiY2tmb20yM3lkMGJjMDJ5bjV6MHh1azdsYyJ9.DwZfuF0yYCWYrgMrQ-cLMw"
